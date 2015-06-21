@@ -5,9 +5,12 @@ Code Book
 $ subject                    : int  1 to 30, Identifier for subject
  
 $ activity_name              : Factor w/ 6 levels "LAYING","SITTING",..: 1 to 6, Activity name
- ....
- '68 variables where data are record, the means and standar derivation records measurements.
  
+ 
+ '68 variables where data are record, the means and standar derivation records measurements. Variables for each pattern where '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions
+ 
+Means values
+
 $ tBodyAcc-mean()-X          : num  0.222 0.261 0.279 0.277 0.289 ...
  
 $ tBodyAcc-mean()-Y          : num  -0.04051 -0.00131 -0.01614 -0.01738 -0.00992 ...
@@ -74,6 +77,8 @@ $ fBodyBodyGyroMag-mean()    : num  -0.862 -0.958 -0.985 -0.199 -0.186 ...
  
 $ fBodyBodyGyroJerkMag-mean(): num  -0.942 -0.99 -0.995 -0.319 -0.282 ...
  
+####Standar Derivation Values:####
+
 $ tBodyAcc-std()-X           : num  -0.928 -0.977 -0.996 -0.284 0.03 ...
  
 $ tBodyAcc-std()-Y           : num  -0.8368 -0.9226 -0.9732 0.1145 -0.0319 ...

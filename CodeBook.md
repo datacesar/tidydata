@@ -6,8 +6,7 @@ $ subject                    : int  1 to 30, Identifier for subject
  
 $ activity_name              : Factor w/ 6 levels "LAYING","SITTING",..: 1 to 6, Activity name
  
- 
- 68 variables where data are record, the means and standar derivation records measurements. Variables for each pattern where '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions
+####68 variables where data are record, the means and standar derivation records measurements. Variables for each pattern where '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions
  
 #####Means values#####
 
